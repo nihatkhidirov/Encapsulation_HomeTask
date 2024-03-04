@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Task\Encapsulation-HomeTask\bin\Debug\net6.0\Encapsulation-HomeTask.exe
+C:\Users\hp\Desktop\Task\Encapsulation-HomeTask\bin\Debug\net6.0\Encapsulation-HomeTask.deps.json
+C:\Users\hp\Desktop\Task\Encapsulation-HomeTask\bin\Debug\net6.0\Encapsulation-HomeTask.runtimeconfig.json
+C:\Users\hp\Desktop\Task\Encapsulation-HomeTask\bin\Debug\net6.0\Encapsulation-HomeTask.dll
+C:\Users\hp\Desktop\Task\Encapsulation-HomeTask\bin\Debug\net6.0\Encapsulation-HomeTask.pdb
+C:\Users\hp\Desktop\Task\Encapsulation-HomeTask\obj\Debug\net6.0\Encapsulation-HomeTask.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Task\Encapsulation-HomeTask\obj\Debug\net6.0\Encapsulation-HomeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Task\Encapsulation-HomeTask\obj\Debug\net6.0\Encapsulation-HomeTask.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Task\Encapsulation-HomeTask\obj\Debug\net6.0\Encapsulation-HomeTask.AssemblyInfo.cs
+C:\Users\hp\Desktop\Task\Encapsulation-HomeTask\obj\Debug\net6.0\Encapsulation-HomeTask.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Task\Encapsulation-HomeTask\obj\Debug\net6.0\Encapsulation-HomeTask.dll
+C:\Users\hp\Desktop\Task\Encapsulation-HomeTask\obj\Debug\net6.0\refint\Encapsulation-HomeTask.dll
+C:\Users\hp\Desktop\Task\Encapsulation-HomeTask\obj\Debug\net6.0\Encapsulation-HomeTask.pdb
+C:\Users\hp\Desktop\Task\Encapsulation-HomeTask\obj\Debug\net6.0\Encapsulation-HomeTask.genruntimeconfig.cache
+C:\Users\hp\Desktop\Task\Encapsulation-HomeTask\obj\Debug\net6.0\ref\Encapsulation-HomeTask.dll
